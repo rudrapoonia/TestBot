@@ -1,0 +1,25 @@
+
+  {
+    "server": {
+      "port": 8003
+    },
+    "app": {
+      "apiPrefix": "",
+      "url": "http://127.0.0.1:8003"  
+    },
+    "credentials": {
+      "apikey": "SunjFLPD6q9y03Ax5yDIZynfDPb5F2y6WduMicpdEKw=", 
+      "appId": "cs-ff567986-d50d-573c-9489-af3026a5651b"        
+    },
+    "redis": {
+      "options": {
+        "host": "localhost",
+        "port": 6379
+      },
+      "available": false
+    },
+    "examples": {
+      "mockServicesHost": "http://localhost:8004"
+    }
+  }
+  
